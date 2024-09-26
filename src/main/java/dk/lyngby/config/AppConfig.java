@@ -38,8 +38,6 @@ public class AppConfig
 
     }
 
-
-
     // == Start server ==
     public static void startServer()
     {
@@ -48,4 +46,3 @@ public class AppConfig
         app.start(ApiProps.PORT);
     }
 }
-
